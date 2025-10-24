@@ -13,7 +13,7 @@ A **simple, cross-platform Python script** to export saved Wi-Fi passwords from 
 - Works on **Windows, macOS, and Linux** (NetworkManager)
 - Exports to **plain text** (human-readable)
 - **No GUI, no dependencies** (uses only Python standard library + system tools)
-- Lightweight and transparent
+- Lightweight and transparent | Output .txt | path : C:\Windows\System32\ .txt
 
 ---
 
